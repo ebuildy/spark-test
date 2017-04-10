@@ -1,0 +1,14 @@
+;Docs;Source;Mode;RDD compress;Storage used;;;
+;100000;JSON;MEMORY;false;320 M;;;
+;100000;JSON;MEMORY_SER;false;155 M;;;
+;100000;JSON;MEMORY;true;320 M;;;
+;100000;JSON;MEMORY_SER;true;38 M;;;
+;100000;RDD;MEMORY;false;664 M;;;
+;100000;RDD;MEMORY_SER;false;140 M;;;
+;100000;RDD;MEMORY;true;664 M;;;
+;100000;RDD;MEMORY_SER;true;38 M;;;
+;100000;RDD;MEMORY_SER + Kryo;false;140 M;;;
+;100000;RDD;MEMORY_SER + Kryo;true;37 M;;;
+;100000;DataFrame;MEMORY;false;133 M;;;
+;100000;DataFrame;MEMORY_SER;true;34 M;;;
+;100000;DataFrame;MEMORY_SER + Kryo;true;34 M;;;
